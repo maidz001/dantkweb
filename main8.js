@@ -98,5 +98,5 @@ if (
   localStorage.getItem("ks7") !== "an" ||
   localStorage.getItem("ks8") !== "an"
 ) {
-  document.getElementById("h2tb").innerText = "bn";
+  document.getElementById("h2tb").innerText = "";
 }
